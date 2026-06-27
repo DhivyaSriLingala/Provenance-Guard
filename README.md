@@ -4,6 +4,7 @@ A backend content-attribution system that classifies submitted text as human-wri
 
 ---
 
+
 ## Table of Contents
 
 1. [Architecture Overview](#architecture-overview)
